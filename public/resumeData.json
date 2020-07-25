@@ -1,107 +1,108 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Archunandev",
+    "description":" App Developer | Innovator | Writer | Here is my achievements, projects and academic details.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I am a App developer looking for a job Studied BCA from trichy curious to learning technology, desire to make a better world, innovative developer .",
+    "contactmessage":"DM for collaboration",
+    "email": "arjunyadav8836@gmail.com",
+    "phone": "77087-35468",
+    "github":"https://github.com/Archunandev",
+    "project":"https://github.com/Archunandev",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"TVS tolget,",
+      "city":"Tiruchirappalli,",
+      "state":"TamilNadu,",
+      "zip": "622102"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://github.com/Archunandev",
+    "resumedownload":"https://drive.google.com/file/d/1XfTioEB2usbtPQgjsgGD--nrYogbJhb-/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://ms-my.facebook.com/people/Arjun-%C3%83%C5%95j%C3%BB%C3%B1/100022402386103?hc_ref=ARTzkvy8C469yt9bKwiKToxEmKH0mYCpBmEV-ViFEOBmpjbuCtWv_uVAl3A5K9ergeY&ref=nf_target",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/ArjundevMr",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/archunan-r-86521a195/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://github.com/Archunandev",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/Archunandev",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here is my Programming and Tools Skills",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Jamal Mohamed College",
+        "degree":"Bachelor of Comp-App",
+        "graduated":"May 2020",
+        "description":"BCA in Information Technology (2017-2020) from Jamal Mohamed College with 62.19% marks and getting good grade"
       },
+        
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Government High School",
+        "degree":"XII-Biology",
+        "graduated":"april 2017",
+        "description": "12th standard year passing (2016-2017) group of Biology with 67.5% percentage participate many competision."
       }
     ],
-    "work":[
+    "Certificates":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Google ",
+        "title":"Applied Digital Skills ",
+        "years":"May 14 - 2020",
+        "description":"Learn the basis of digital skills, Email ethics & professional Email writing with good communication and get started with google AdMob tracking users providing monthly ads report, manage inventory and drive revenue."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Accenture",
+        "title":"Digital Skill:Mobile",
+        "years":"May 11 - 2020",
+        "description":"This course explored the meaning of mobile technology and its growth and benefits. It provided an introduction to mobile design concepts and development approaches, and outlined the seven principles underpinning the design of an effective mobile application. The concept of the Internet of Things (IOT) was also explained, including the associated benefits and challenges."
       }
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"JAVA",
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
+        "name":"XML",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"ReactJs",
+        "level":"60%"
       },
       {
-        "name":"JAVA",
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"Firebase",
+        "level":"80%"
+      },
+      {
+        "name":"Android Studio",
         "level":"80%"
       }
     ]
@@ -109,34 +110,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Cerca - App Future",
+        "category":"This website discribe cerca appication future.",
+        "image":"future.png",
+        "url":"https://archunandev.github.io/launching-app/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Community",
+        "category":"This Website is our official community page",
+        "image":"community.png",
+        "url":"https://archunandev.github.io/saint-community/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Tournament",
+        "category":"This website run a games tournament with register online",
+        "image":"tournament.png",
+        "url":"https://bit.ly/2yGIXhS"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Online - store",
+        "category":"This Android Application use to playing a symptoms quiz if you have",
+        "image":"onlinestore.png",
+        "url":"https://archunandev.github.io/online-store/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Netflix Website",
+        "category":"This website can access to see a free netflix movies.",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://bit.ly/2yGIXhS"
       }
     ]
   }

@@ -88,21 +88,33 @@ class Contact extends Component {
 				   </div>
 
                <div className="widget widget_tweets">
-                  <h4 className="widget-title">Latest Tweets</h4>
+                  <h4 className="widget-title">Latest Tweets & post</h4>
                   <ul id="twitter">
                      <li>
                         <span>
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        Calling all Techies of India! The #AppInnovationChallenge is an opportunity for Indian tech developers, entrepreneurs and companies to create world-class apps while also giving impetus to the ‘AtmaNirbhar Bharat’ initiatives. 
+Participate Now : https://innovate.mygov.in/app-challenge/#tab3
+                        <a href="#">https://twitter.com/ArjundevMr</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
                      </li>
                      <li>
                         <span>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        Respectful recruiters,
+
+(ME and my MOM controversy)
+
+Mom: why? You always using mobile phone and laptop. Please help me to cleaning the house, making a food...🤔
+
+Me: I'm using the quarantine to upgrade my skill and career. if interviewer ask me to what to do in the quarantine? I can't telI helped for my mom.😥
+
+Mom: Why not? tell them to (I'm helped to my mom in the quarantine.) they're impressed you... and hiring you..😤
+
+My said no answers😅
+
+Ok Recruiters which side you vote wrote you're comments please..✍ Recruit . Nidhi Chauhan ☀️Your Recruitment Coach🎯 Recruiter.com Rec R. Recruitment Academy #recruiters #recruit #hiring #hire #interview #hrmanager #student
+#jobs Shaneé Moret Venus Dhuria Ramya Venkat
+                        <a href="#">https://www.linkedin.com/in/archunan-r-86521a195/</a>
                         </span>
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
